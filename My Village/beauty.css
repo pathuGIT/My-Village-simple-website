@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.main{
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgba(182, 17, 17, 0);
+    padding-bottom: 50px;
+
+}
+h1 {
+    text-align: center;
+    margin: 80px 0;
+    font-size: 3vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.places {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.item {
+    width: 700px;
+    text-align: center;
+    margin-bottom: 20px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.item img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+.item h2{
+
+}
+.item p{
+    width: 100%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family:sans-serif;
+    font-size: 18px;
+}

@@ -1,0 +1,42 @@
+
+.contentB{  
+    border: 1px solid rgba(0, 0, 0, 0);
+    background-color: rgb(245, 245, 245);
+}
+.contentB .begin{
+    
+    border-bottom: 1px solid rgb(165, 163, 163);
+    height: 100vh;
+    text-align: center;
+}
+.contentB .begin h4{
+    margin-top: 150px;
+    font-size: 3vw;
+}
+.contentB .begin p{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 800px;
+    font-family: serif;
+    font-size: 20px;
+    margin-top: 100px;
+}
+.contentB .Thera{
+    border-bottom: 1px solid rgb(165, 163, 163);
+    text-align: center;
+    height: 50vh;
+    padding-top: 50px;
+
+}
+.contentB .Thera h4{
+    font-size: 2vw;
+}
+.contentB .Amb{
+    text-align: center;
+    height: 50vh;
+    padding-top: 50px;
+}
+.contentB .Amb h4{
+    font-size: 2vw;
+}

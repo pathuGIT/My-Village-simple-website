@@ -1,0 +1,16 @@
+.content{
+    border: 1px solid rgba(102, 51, 153, 0);
+}
+.main{
+    height: 100vh;
+    padding-top: 100px;
+}
+.main h3{
+    font-size: 3vw;
+}
+.main p{
+    font-family: serif;
+    font-size: 18px;
+    width: 800px;
+    text-align: justify;
+}
